@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import numpy as np 
 import CoolProp
-from scipy.integrate import solve_ivp
+
 
 
 st.title('Krillemulles seje graf')

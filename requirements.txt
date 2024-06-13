@@ -1,8 +1,0 @@
-python 
-numpy 
-scipy  
-matplotlib 
-coolprop 
-streamlit 
-protobuf 
-setuptools 

@@ -1,4 +1,4 @@
-coolprop==6.6.0 ; python_version >= "3.12" and python_version < "4.0"
+coolprop
 matplotlib
 numpy==1.26.4 ; python_version >= "3.12" and python_version < "4.0"
 pandas==2.2.2 ; python_version >= "3.12" and python_version < "4.0"

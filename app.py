@@ -2,7 +2,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import matplotlib as plt
+import matplotlib.pyplot as plt
 import numpy as np 
 import CoolProp
 from scipy.integrate import solve_ivp
